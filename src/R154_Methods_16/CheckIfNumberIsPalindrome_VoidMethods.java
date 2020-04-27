@@ -23,7 +23,7 @@ output: false
     public static void isPalindrome(int num){
         //WRITE YOUR CODE HERE
 
-        int reverseNumber = 0;
+               int reverseNumber = 0;
 
         int remainder = 0;
 
