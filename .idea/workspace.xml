@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49641189-d3ab-47a5-be59-80993bc3e4d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,33 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.PrintUniqueWords_VoidMethods">
+  <component name="RunManager" selected="Application.FibonacciNumbers_VoidMethods">
+    <configuration name="CheckIfNumberIsPalindrome_VoidMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="R154_Methods_16.CheckIfNumberIsPalindrome_VoidMethods" />
+      <module name="Repl.it" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="R154_Methods_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciNumbers_VoidMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="R155_Methods_17.FibonacciNumbers_VoidMethods" />
+      <module name="Repl.it" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="R155_Methods_17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintUniqueWords_VoidMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="R153_Methods_15.PrintUniqueWords_VoidMethods" />
       <module name="Repl.it" />
@@ -64,6 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciNumbers_VoidMethods" />
+        <item itemvalue="Application.CheckIfNumberIsPalindrome_VoidMethods" />
         <item itemvalue="Application.PrintUniqueWords_VoidMethods" />
         <item itemvalue="Application.Print_Unique_Numbers" />
       </list>
@@ -87,22 +114,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="746" y="155" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587932222169" />
-    <state width="1344" height="255" key="GridCell.Tab.0.bottom" timestamp="1587947329372">
+    <state width="1344" height="255" key="GridCell.Tab.0.bottom" timestamp="1587960542987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1344" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587947329372" />
-    <state width="1344" height="255" key="GridCell.Tab.0.center" timestamp="1587947329372">
+    <state width="1344" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587960542987" />
+    <state width="1344" height="255" key="GridCell.Tab.0.center" timestamp="1587960542987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1344" height="255" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587947329372" />
-    <state width="1344" height="255" key="GridCell.Tab.0.left" timestamp="1587947329372">
+    <state width="1344" height="255" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587960542987" />
+    <state width="1344" height="255" key="GridCell.Tab.0.left" timestamp="1587960542987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1344" height="255" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587947329372" />
-    <state width="1344" height="255" key="GridCell.Tab.0.right" timestamp="1587947329372">
+    <state width="1344" height="255" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587960542987" />
+    <state width="1344" height="255" key="GridCell.Tab.0.right" timestamp="1587960542987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1344" height="255" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587947329372" />
+    <state width="1344" height="255" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587960542987" />
+    <state width="1344" height="317" key="GridCell.Tab.1.bottom" timestamp="1587957935920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1344" height="317" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587957935920" />
+    <state width="1344" height="317" key="GridCell.Tab.1.center" timestamp="1587957935920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1344" height="317" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587957935920" />
+    <state width="1344" height="317" key="GridCell.Tab.1.left" timestamp="1587957935920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1344" height="317" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587957935920" />
+    <state width="1344" height="317" key="GridCell.Tab.1.right" timestamp="1587957935920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1344" height="317" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587957935920" />
     <state x="368" y="0" key="SettingsEditor" timestamp="1587931953171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
