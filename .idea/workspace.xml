@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49641189-d3ab-47a5-be59-80993bc3e4d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/R184_MethodsWithArrayList_6_remove.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
